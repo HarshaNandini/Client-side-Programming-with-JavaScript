@@ -1,1 +1,1 @@
-###A collection of my JavaScript practices for frontend development
+### A collection of my JavaScript practices for frontend development
